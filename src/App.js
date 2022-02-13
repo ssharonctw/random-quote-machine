@@ -8,8 +8,8 @@ let quoteDBUrl = "https://gist.githubusercontent.com/camperbot/5a022b72e96c4c958
 
 function App() {
   //const[state, setState] = useState(initialState)
-  const[quote, setQuote] = useState("a quote")
-  const[author, setAuthor] = useState("an author")
+  const[quote, setQuote] = useState("Life is what we make it, always has been, always will be.")
+  const[author, setAuthor] = useState("Grandma Moses")
   const[randomNumber, setRandomNumber] = useState(0)
   const[quotesArray, setQuotesArray] = useState(null)
   const[accentColor, setAccentColor] = useState('#282c34')
