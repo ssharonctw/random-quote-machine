@@ -6,7 +6,8 @@ The random quote machine will generate a random quote and change the site color 
 - Implemented the random quote generation and the color changing effect with React Hooks
 - Fetched the online source using Fetch API 
 - Improved the UI with CSS Styles and FontAwesome library
+- Applied CSS media query to make the webapp responsive to different screensizes
 
-##Demo
+## Demo
 Demo is ready at https://ssharonctw.github.io/random-quote-machine/
 ![Demo picture](doc/random-quote-machine-demo.PNG)
