@@ -9,5 +9,5 @@ The random quote machine will generate a random quote and change the site color 
 - Applied CSS media query to make the webapp responsive to different screensizes
 
 ## Demo
-Demo is ready at https://ssharonctw.github.io/random-quote-machine/
+The webapp is deployed on github [here](https://ssharonctw.github.io/random-quote-machine/)
 ![Demo picture](doc/random-quote-machine-demo.PNG)
