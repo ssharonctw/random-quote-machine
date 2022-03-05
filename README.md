@@ -7,4 +7,6 @@ The random quote machine will generate a random quote and change the site color 
 - Fetched the online source using Fetch API 
 - Improved the UI with CSS Styles and FontAwesome library
 
+##Demo
 Demo is ready at https://ssharonctw.github.io/random-quote-machine/
+![Demo picture](doc/random-quote-machine-demo.PNG)
